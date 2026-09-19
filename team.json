@@ -1,0 +1,72 @@
+{
+  "leitung": [
+    {
+      "Name": "John Jambo Oconner",
+      "Role": "Geschäftsführung & Leitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/747462923248730234/394822528e3810738607b147e75c7310.png?size=128"
+    },
+    {
+      "Name": "Natalie Campbell",
+      "Role": "Geschäftsführung & Leitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/747525111413735445/f7eb9c12ccddfec4c86c910f7091b0c8.png?size=128"
+    },
+    {
+      "Name": "Ray Oconner",
+      "Role": "Geschäftsführung & Leitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/730747539795607615/b3700561ffa8f688af35d81a854033b8.png?size=128"
+    },
+    {
+      "Name": "Max Campbell [Abg.]",
+      "Role": "Geschäftsführung & Leitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/759522523238498314/0c01aec8e1ff660f7542bddc8f4cb010.png?size=128"
+    },
+    {
+      "Name": "John Redfield [Abg.]",
+      "Role": "Geschäftsführung & Leitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/1308900688297852988/1c4d2c016e5d54312ecbf1b1afbd9d63.png?size=128"
+    }
+  ],
+  "personal": [
+    {
+      "Name": "Elena Macht",
+      "Role": "Personalleitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/827279358557159444/f3d21382b5a18c30b3c6a9973fc0324e.png?size=128"
+    }
+  ],
+  "ausbildung": [
+    {
+      "Name": "Nick Redfield",
+      "Role": "Ausbildungsleitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/765563041579925516/b659f75adda37d9715147c076b35c957.png?size=128"
+    }
+  ],
+  "ausbilder": [
+    {
+      "Name": "Nick Sterling [Abg.]",
+      "Role": "Ausbilder",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/449186552661409814/ed64470406fcde3b573dc25c8e3213b3.png?size=128"
+    },
+    {
+      "Name": "Leon Adams",
+      "Role": "Ausbilder",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/1227658333507424457/5b6aa97a26029cd61bb5486dd7291c19.png?size=128"
+    }
+  ],
+  "personalabteilung": [
+    {
+      "Name": "Alex Cruz [Abg.]",
+      "Role": "Personalabteilung",
+      "AvatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+    },
+    {
+      "Name": "AZAD HAT",
+      "Role": "Personalabteilung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/1501591063578673353/9a5a744b1c3999cfc9e0f3505ae78490.png?size=128"
+    },
+    {
+      "Name": "Claus Sterling",
+      "Role": "Personalabteilung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/629591420138684416/b68c2d013ef80993005659378cd5133b.png?size=128"
+    }
+  ]
+}
