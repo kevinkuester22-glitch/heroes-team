@@ -35,6 +35,11 @@
   ],
   "ausbildung": [
     {
+      "Name": "Nick Sterling [Abg.]",
+      "Role": "Ausbildungsleitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/449186552661409814/ed64470406fcde3b573dc25c8e3213b3.png?size=128"
+    },
+    {
       "Name": "Nick Redfield",
       "Role": "Ausbildungsleitung",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/765563041579925516/b659f75adda37d9715147c076b35c957.png?size=128"
@@ -42,9 +47,9 @@
   ],
   "ausbilder": [
     {
-      "Name": "Nick Sterling [Abg.]",
+      "Name": "Leo Salzberg",
       "Role": "Ausbilder",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/449186552661409814/ed64470406fcde3b573dc25c8e3213b3.png?size=128"
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/1091046321525370931/343e76b3c01c7c8dcb6cd7629578aee1.png?size=128"
     }
   ],
   "personalabteilung": [
