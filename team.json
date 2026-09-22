@@ -1,14 +1,14 @@
 {
   "leitung": [
     {
+      "Name": "Natalie Campbell",
+      "Role": "Inhaber",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/747525111413735445/f7eb9c12ccddfec4c86c910f7091b0c8.png?size=128"
+    },
+    {
       "Name": "John Jambo Oconner",
       "Role": "Teilhaber",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/747462923248730234/394822528e3810738607b147e75c7310.png?size=128"
-    },
-    {
-      "Name": "Natalie Campbell",
-      "Role": "Teilhaber",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/747525111413735445/f7eb9c12ccddfec4c86c910f7091b0c8.png?size=128"
     },
     {
       "Name": "Ray Oconner",
