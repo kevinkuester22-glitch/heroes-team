@@ -28,6 +28,11 @@
   ],
   "personal": [
     {
+      "Name": "scott Adams",
+      "Role": "Personalleitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/813853726032658492/639b2d04dd765813e2e35a9aa6aa083b.png?size=128"
+    },
+    {
       "Name": "Elena Macht",
       "Role": "Personalleitung",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/827279358557159444/f3d21382b5a18c30b3c6a9973fc0324e.png?size=128"
