@@ -30,26 +30,26 @@
   ],
   "ausbildung": [
     {
-      "Name": "Nick Sterling",
-      "Role": "Ausbildungsleitung",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/449186552661409814/ed64470406fcde3b573dc25c8e3213b3.png?size=128"
-    },
-    {
       "Name": "Nick Redfield [Abg.]",
       "Role": "Ausbildungsleitung",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/765563041579925516/66fe8f966eb9be7b2464a3130cd661f0.png?size=128"
+    },
+    {
+      "Name": "Nick Sterling",
+      "Role": "Ausbildungsleitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/449186552661409814/ed64470406fcde3b573dc25c8e3213b3.png?size=128"
     }
   ],
   "ausbilder": [
     {
-      "Name": "Leo Salzberg",
-      "Role": "Ausbilder",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/1091046321525370931/b3969f27ec8ce06793598859785e3238.png?size=128"
-    },
-    {
       "Name": "Leo Santoro",
       "Role": "Ausbilder",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/1319432802453946442/16af668f8c716e680ea6a8d41abd531e.png?size=128"
+    },
+    {
+      "Name": "Leo Salzberg",
+      "Role": "Ausbilder",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/1091046321525370931/b3969f27ec8ce06793598859785e3238.png?size=128"
     }
   ],
   "personalabteilung": [
