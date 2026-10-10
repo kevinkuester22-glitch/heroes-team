@@ -6,26 +6,31 @@
       "AvatarUrl": "https://cdn.discordapp.com/avatars/747525111413735445/f7eb9c12ccddfec4c86c910f7091b0c8.png?size=128"
     },
     {
-      "Name": "John Jambo Oconner",
+      "Name": "John Redfield [Abg.]",
       "Role": "Teilhaber",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/747462923248730234/394822528e3810738607b147e75c7310.png?size=128"
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/1308900688297852988/1c4d2c016e5d54312ecbf1b1afbd9d63.png?size=128"
     },
     {
       "Name": "Max Campbell",
-      "Role": "Chef",
+      "Role": "Teilhaber",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/759522523238498314/6f52f467c7833cdafc6c3ed3ff22b8c2.png?size=128"
     },
     {
-      "Name": "John Redfield [Abg.]",
+      "Name": "Elena Macht [Abg.]",
+      "Role": "Chef",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/827279358557159444/f3d21382b5a18c30b3c6a9973fc0324e.png?size=128"
+    },
+    {
+      "Name": "Nick Redfield",
       "Role": "Stv. Chef",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/1308900688297852988/1c4d2c016e5d54312ecbf1b1afbd9d63.png?size=128"
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/765563041579925516/66fe8f966eb9be7b2464a3130cd661f0.png?size=128"
     }
   ],
   "personal": [
     {
-      "Name": "Elena Macht [Abg.]",
+      "Name": "scott Adams",
       "Role": "Personalleitung",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/827279358557159444/f3d21382b5a18c30b3c6a9973fc0324e.png?size=128"
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/813853726032658492/639b2d04dd765813e2e35a9aa6aa083b.png?size=128"
     }
   ],
   "ausbildung": [
@@ -33,11 +38,6 @@
       "Name": "Nick Sterling [Abg.]",
       "Role": "Ausbildungsleitung",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/449186552661409814/ed64470406fcde3b573dc25c8e3213b3.png?size=128"
-    },
-    {
-      "Name": "Nick Redfield",
-      "Role": "Ausbildungsleitung",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/765563041579925516/66fe8f966eb9be7b2464a3130cd661f0.png?size=128"
     }
   ],
   "ausbilder": [
@@ -52,11 +52,5 @@
       "AvatarUrl": "https://cdn.discordapp.com/avatars/1319432802453946442/16af668f8c716e680ea6a8d41abd531e.png?size=128"
     }
   ],
-  "personalabteilung": [
-    {
-      "Name": "scott Adams",
-      "Role": "Personalabteilung",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/813853726032658492/639b2d04dd765813e2e35a9aa6aa083b.png?size=128"
-    }
-  ]
+  "personalabteilung": []
 }
