@@ -6,7 +6,7 @@
       "AvatarUrl": "https://cdn.discordapp.com/avatars/747525111413735445/f7eb9c12ccddfec4c86c910f7091b0c8.png?size=128"
     },
     {
-      "Name": "John Redfield [Abg.]",
+      "Name": "John Redfield",
       "Role": "Teilhaber",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/1308900688297852988/1c4d2c016e5d54312ecbf1b1afbd9d63.png?size=128"
     },
@@ -35,7 +35,7 @@
   ],
   "ausbildung": [
     {
-      "Name": "Nick Sterling [Abg.]",
+      "Name": "Nick Sterling",
       "Role": "Ausbildungsleitung",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/449186552661409814/ed64470406fcde3b573dc25c8e3213b3.png?size=128"
     }
