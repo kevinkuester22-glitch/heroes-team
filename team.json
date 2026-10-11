@@ -42,6 +42,11 @@
   ],
   "ausbilder": [
     {
+      "Name": "Sergej Kalikov",
+      "Role": "Ausbilder",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/377204925869850624/457f4d4f9a84cf5079fe67b58f1dc3f8.png?size=128"
+    },
+    {
       "Name": "Leo Salzberg",
       "Role": "Ausbilder",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/1091046321525370931/b3969f27ec8ce06793598859785e3238.png?size=128"
