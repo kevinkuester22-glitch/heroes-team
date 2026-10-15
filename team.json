@@ -6,17 +6,17 @@
       "AvatarUrl": "https://cdn.discordapp.com/avatars/747525111413735445/f7eb9c12ccddfec4c86c910f7091b0c8.png?size=128"
     },
     {
-      "Name": "John Redfield",
-      "Role": "Teilhaber",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/1308900688297852988/1c4d2c016e5d54312ecbf1b1afbd9d63.png?size=128"
-    },
-    {
       "Name": "Max Campbell",
       "Role": "Teilhaber",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/759522523238498314/6f52f467c7833cdafc6c3ed3ff22b8c2.png?size=128"
     },
     {
-      "Name": "Elena Macht [Abg.]",
+      "Name": "Pennywise",
+      "Role": "Teilhaber",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/1308900688297852988/1c4d2c016e5d54312ecbf1b1afbd9d63.png?size=128"
+    },
+    {
+      "Name": "Elena Macht",
       "Role": "Chef",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/827279358557159444/f3d21382b5a18c30b3c6a9973fc0324e.png?size=128"
     },
@@ -28,7 +28,7 @@
   ],
   "personal": [
     {
-      "Name": "scott Adams",
+      "Name": "Scott Adams",
       "Role": "Personalleitung",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/813853726032658492/639b2d04dd765813e2e35a9aa6aa083b.png?size=128"
     }
@@ -38,14 +38,19 @@
       "Name": "Nick Sterling",
       "Role": "Ausbildungsleitung",
       "AvatarUrl": "https://cdn.discordapp.com/avatars/449186552661409814/ed64470406fcde3b573dc25c8e3213b3.png?size=128"
+    },
+    {
+      "Name": "Max Campbell",
+      "Role": "Ausbildungsleitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/759522523238498314/6f52f467c7833cdafc6c3ed3ff22b8c2.png?size=128"
+    },
+    {
+      "Name": "Nick Redfield",
+      "Role": "Ausbildungsleitung",
+      "AvatarUrl": "https://cdn.discordapp.com/avatars/765563041579925516/66fe8f966eb9be7b2464a3130cd661f0.png?size=128"
     }
   ],
   "ausbilder": [
-    {
-      "Name": "Sergej Kalikov",
-      "Role": "Ausbilder",
-      "AvatarUrl": "https://cdn.discordapp.com/avatars/377204925869850624/457f4d4f9a84cf5079fe67b58f1dc3f8.png?size=128"
-    },
     {
       "Name": "Leo Salzberg",
       "Role": "Ausbilder",
